@@ -162,9 +162,8 @@ a:active {
     min-width          : 80px;
     min-height         : 80px;
     border-radius      : 50%;
-    background         : none url("/images/foto.jpg") no-repeat center center;
     background-color   : #54B689;
-    background-image   : url('/images/foto.jpg');
+    background-image   : url('../images/foto.jpg');
     background-repeat  : no-repeat;
     background-position: center top;
     background-size    : cover;
