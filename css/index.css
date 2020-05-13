@@ -38,11 +38,11 @@ h1 {
     font-size     : 40px;
     line-height   : 48px;
     letter-spacing: 1.66667px;
-    color         : #54B689;
+    color         : #00BEFF;
 }
 
 h3 {
-    color         : #54b689;
+    color         : #00BEFF;
     font-family   : HelveticaNeue;
     font-size     : 12px;
     font-weight   : 400;
@@ -58,7 +58,7 @@ h3::before {
     display    : inline-block;
     width      : 5px;
     height     : 16px;
-    background : #54B689;
+    background : #00BEFF;
     position   : absolute;
     left       : 0;
     top        : 0;
@@ -81,7 +81,7 @@ a {
 
 a:hover,
 a:active {
-    color          : #54B689;
+    color          : #00BEFF;
     text-decoration: none;
 }
 
@@ -162,7 +162,7 @@ a:active {
     min-width          : 80px;
     min-height         : 80px;
     border-radius      : 50%;
-    background-color   : #54B689;
+    background-color   : #00BEFF;
     background-image   : url('../images/foto.jpg');
     background-repeat  : no-repeat;
     background-position: center top;
